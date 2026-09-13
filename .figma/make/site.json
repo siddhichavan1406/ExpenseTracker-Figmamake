@@ -1,0 +1,10 @@
+{
+  "description": "Track and manage personal expenses effortlessly with intuitive tools designed to help users monitor spending and optimize budgets.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
